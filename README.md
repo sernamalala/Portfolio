@@ -18,10 +18,10 @@ As I continue to learn and expand my skill set, I will keep updating this portfo
 
 Here are a few of the projects I’ve worked on so far:
 
-### Serna Hometown Page
+## Serna Hometown Page
 This project showcases a simple webpage dedicated to my hometown. It demonstrates my grasp of basic HTML and CSS structure, styling, and responsive design.
 
-### Serna Wireframe Page
+## Serna Wireframe Page
 A wireframe project that focuses on layout and structure, showing my understanding of design and page composition.
 
 ### Serna Forms Control Page
