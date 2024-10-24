@@ -24,7 +24,7 @@ This project showcases a simple webpage dedicated to my hometown. It demonstrate
 ## Serna Wireframe Page
 A wireframe project that focuses on layout and structure, showing my understanding of design and page composition.
 
-### Serna Forms Control Page
+## Serna Forms Control Page
 A page with interactive form elements, illustrating my ability to create user input fields, buttons, and other controls.
 
 ## Contact
